@@ -1,3 +1,1 @@
-抽个卡
-tyarn install
-tyarn start
+原神抽个卡
